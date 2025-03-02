@@ -1,5 +1,5 @@
 
- ### 👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
+ #### 👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
 
 🚀 Bridging DevOps & DataOps with Cloud, Automation & Observability
 
@@ -9,7 +9,7 @@
 
 🔹 Sharing knowledge through GitHub and LinkedIn 
 
-## 🔧 Tech Stack & Expertise
+# 🔧 Tech Stack & Expertise
 
 # ⚙️ DevOps & Automation
 
@@ -41,7 +41,7 @@
 
 🔹 Linux OS: 🐧 Shell Scripting | System Administration
 
-### 🏆 Open Source Contributions & GitHub Projects
+## 🏆 Open Source Contributions & GitHub Projects
 
 I actively contribute to DevOps, Cloud, and Automation projects.
 
@@ -49,7 +49,7 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 # 📌 DevOps & Cloud
 
-🔹 [Terraform Repository ]🌍
+🔹 [Terraform Repository]🌍
 
 🔹 [Kubernetes Repository] ☸️
 
