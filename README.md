@@ -49,7 +49,7 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 # 📌 DevOps & Cloud
 
-🔹 [Terraform Repository]🌍
+🔹 [Terraform Repository]🌍(https://github.com/Haswanthkondamadugula/Terraform Repository)
 
 🔹 [Kubernetes Repository] ☸️
 
@@ -97,6 +97,3 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 ⭐ If you find my work helpful, please consider starring my repositories and following my profile and let's innovate together 🎯
 
-GitHub Stats
-
-Haswanth's GitHub Stats Top Languages
