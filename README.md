@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
+ ### 👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
 
 🚀 Bridging DevOps & DataOps with Cloud, Automation & Observability
 
@@ -9,9 +9,9 @@
 
 🔹 Sharing knowledge through GitHub and LinkedIn 
 
-🔧 Tech Stack & Expertise
+## 🔧 Tech Stack & Expertise
 
-⚙️ DevOps & Automation
+# ⚙️ DevOps & Automation
 
 🔹 CI/CD: Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀
 
@@ -23,57 +23,57 @@
 
 🔹 Scripting & Automation: Bash 🖥️ | Python 🐍 | GO
 
-☁️ Cloud & Infrastructure
+# ☁️ Cloud & Infrastructure
 
 🔹 AWS Cloud: EC2 🖥️ | S3 📦 | RDS 🛢️ | Lambda ⚡ | EKS ☸️ | VPC 🌐 | IAM 🔑 | Route 53 | CloudWatch | ECR | ELB | EMR
 
 🔹 Azure Cloud: Azure DevOps 🚀 | AKS ☸️ | Virtual Machines 🏗️ | VNet 🌍 | Azure Storage | Azure Entra ID | Azure Functions | Azure DNS | Azure Monitor | ACR
 
-📊 Observability & Monitoring
+# 📊 Observability & Monitoring
 
 🔹 Metrics & Logging: Prometheus 📈 | Grafana 📊 
 
 🔹 Distributed Tracing: Jaeger 🔍
 
-⚡ Version Control & Linux Administration
+# ⚡ Version Control & Linux Administration
 
 🔹 Git & GitHub: 📝 (Open Source Contributions & Projects)
 
 🔹 Linux OS: 🐧 Shell Scripting | System Administration
 
-🏆 Open Source Contributions & GitHub Projects
+### 🏆 Open Source Contributions & GitHub Projects
 
 I actively contribute to DevOps, Cloud, and Automation projects.
 
-🚀 Check out my GitHub Repositories:
+# 🚀 Check out my GitHub Repositories:
 
-📌 DevOps & Cloud
+# 📌 DevOps & Cloud
 
-🔹 Terraform Repository 🌍
+🔹 [Terraform Repository ]🌍
 
-🔹 Kubernetes Repository ☸️
+🔹 [Kubernetes Repository] ☸️
 
-🔹 Azure Repository 🚀
+🔹 [Azure Repository] 🚀
 
-🔹 Docker Repository
+🔹 [Docker Repository]
 
-🔹 CICD Repository
+🔹 [CICD Repository]
 
-🔹 Ansible Repository
+🔹 [Ansible Repository]
 
-🔹 Git Repository
+🔹 [Git Repository]
 
-🔹 Linux Repository
+🔹 [Linux Repository]
 
-📌 Scripting & Automation
+# 📌 Scripting & Automation
 
-🔹 Shell Scripting Repository 🖥️
+🔹 [Shell Scripting Repository] 🖥️
 
-🔹 Python for DevOps Repository 🐍
+🔹 [Python for DevOps Repository] 🐍
 
 💡 I welcome collaborations If you're interested in DevOps, Cloud, or MLOps, let's build something amazing together.
 
-📚 Learning & Future Goals
+### 📚 Learning & Future Goals
 
 🚀 Currently diving deep into:
 
@@ -83,7 +83,7 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 ☁️ AWS Solution Architect Path to design scalable cloud solutions
 
-📢 Let's Connect
+### 📢 Let's Connect
 
 💼 Open to: DevOps, DataOps, and Cloud Engineering opportunities worldwide
 
@@ -91,9 +91,9 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 📩 Reach out to me:
 
-🔗 LinkedIn: www.linkedin.com/in/haswanth-kondamadugula-417607188
+🔗 LinkedIn: [www.linkedin.com/in/haswanth-kondamadugula-417607188]
 
-💻 GitHub: https://github.com/Haswanthkondamadugula
+💻 GitHub: [https://github.com/Haswanthkondamadugula]
 
 ⭐ If you find my work helpful, please consider starring my repositories and following my profile and let's innovate together 🎯
 
