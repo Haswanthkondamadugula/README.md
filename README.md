@@ -1,4 +1,4 @@
- #### 👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
+ # 👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
 
 🚀 Bridging DevOps & DataOps with Cloud, Automation & Observability
 
@@ -8,9 +8,9 @@
 
 🔹 Sharing knowledge through GitHub and LinkedIn 
 
-# 🔧 Tech Stack & Expertise
+## 🔧 Tech Stack & Expertise
 
-# ⚙️ DevOps & Automation
+### ⚙️ DevOps & Automation
 
 🔹 CI/CD: Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀
 
@@ -22,31 +22,31 @@
 
 🔹 Scripting & Automation: Bash 🖥️ | Python 🐍 | GO
 
-# ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 🔹 AWS Cloud: EC2 🖥️ | S3 📦 | RDS 🛢️ | Lambda ⚡ | EKS ☸️ | VPC 🌐 | IAM 🔑 | Route 53 | CloudWatch | ECR | ELB | EMR
 
 🔹 Azure Cloud: Azure DevOps 🚀 | AKS ☸️ | Virtual Machines 🏗️ | VNet 🌍 | Azure Storage | Azure Entra ID | Azure Functions | Azure DNS | Azure Monitor | ACR
 
-# 📊 Observability & Monitoring
+### 📊 Observability & Monitoring
 
 🔹 Metrics & Logging: Prometheus 📈 | Grafana 📊 
 
 🔹 Distributed Tracing: Jaeger 🔍
 
-# ⚡ Version Control & Linux Administration
+### ⚡ Version Control & Linux Administration
 
 🔹 Git & GitHub: 📝 (Open Source Contributions & Projects)
 
 🔹 Linux OS: 🐧 Shell Scripting | System Administration
 
-## 🏆 Open Source Contributions & GitHub Projects
+# 🏆 Open Source Contributions & GitHub Projects
 
 I actively contribute to DevOps, Cloud, and Automation projects.
 
-# 🚀 Check out my GitHub Repositories:
+### 🚀 Check out my GitHub Repositories:
 
-# 📌 DevOps & Cloud
+### 📌 DevOps & Cloud
 
 🔹 [Terraform Repository]🌍(https://github.com/Haswanthkondamadugula/Terraform Repository)
 
