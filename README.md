@@ -48,27 +48,27 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 ### 📌 DevOps & Cloud
 
-🔹 [Terraform Repository]🌍(https://github.com/Haswanthkondamadugula/Terraform Repository)
+🔹 [Terraform Repository]🌍
 
-🔹 [Kubernetes Repository] ☸️(https://github.com/Haswanthkondamadugula/Kubernetes Repository)
+🔹 [Kubernetes Repository] ☸️
 
-🔹 [Azure Repository] 🚀(https://github.com/Haswanthkondamadugula/Azure Repository)
+🔹 [Azure Repository] 🚀
 
-🔹 [Docker Repository](https://github.com/Haswanthkondamadugula/Docker Repository)
+🔹 [Docker Repository]
 
-🔹 [CICD Repository](https://github.com/Haswanthkondamadugula/CICD Repository)
+🔹 [CICD Repository]
 
-🔹 [Ansible Repository](https://github.com/Haswanthkondamadugula/Ansible Repository)
+🔹 [Ansible Repository]
 
-🔹 [Git Repository](https://github.com/Haswanthkondamadugula/Git Repository)
+🔹 [Git Repository]
 
-🔹 [Linux Repository](https://github.com/Haswanthkondamadugula/Linux Repository)
+🔹 [Linux Repository]
 
 # 📌 Scripting & Automation
 
-🔹 [Shell Scripting Repository] 🖥️(https://github.com/Haswanthkondamadugula/Shell Scripting Repository)
+🔹 [Shell Scripting Repository] 🖥️
 
-🔹 [Python for DevOps Repository] 🐍(https://github.com/Haswanthkondamadugula/Python for DevOps Repository)
+🔹 [Python for DevOps Repository] 🐍
 
 💡 I welcome collaborations If you're interested in DevOps, Cloud, or MLOps, let's build something amazing together.
 
