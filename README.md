@@ -1,12 +1,13 @@
-# README.md
-Hello World, This is my Profile
+
+👋 Hi, I'm Haswanth kondamadugula Reddy |  DevOps Engineer
+
 🚀 Bridging DevOps & DataOps with Cloud, Automation & Observability
 
 🔹 Passionate about DevOps, Cloud, and Open Source Contributions
 
 🔹 Exploring MLOps & AIOps to drive the future of intelligent automation
 
-🔹 Sharing knowledge through GitHub, LinkedIn, and Technical Blogs
+🔹 Sharing knowledge through GitHub and LinkedIn 
 
 🔧 Tech Stack & Expertise
 
@@ -14,13 +15,13 @@ Hello World, This is my Profile
 
 🔹 CI/CD: Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀
 
-🔹 Containerization & Orchestration: Docker 🐳 | Kubernetes ☸️ | ArgoCD 🔄
+🔹 Containerization & Orchestration: Docker 🐳 | Kubernetes ☸️ 
 
-🔹 Configuration Management: Ansible ⚡ | Chef
+🔹 Configuration Management: Ansible ⚡ | Chef | Puppet
 
-🔹 Infrastructure as Code (IaC): Terraform 🌍
+🔹 Infrastructure as Code (IaC): Terraform 🌍 | Cloudformation
 
-🔹 Scripting & Automation: Bash 🖥️ | Python 🐍
+🔹 Scripting & Automation: Bash 🖥️ | Python 🐍 | GO
 
 ☁️ Cloud & Infrastructure
 
@@ -30,7 +31,7 @@ Hello World, This is my Profile
 
 📊 Observability & Monitoring
 
-🔹 Metrics & Logging: Prometheus 📈 | Grafana 📊 | ELK/EFK Stack 📑
+🔹 Metrics & Logging: Prometheus 📈 | Grafana 📊 
 
 🔹 Distributed Tracing: Jaeger 🔍
 
@@ -90,14 +91,12 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 📩 Reach out to me:
 
-🔗 LinkedIn: (www.linkedin.com/in/bharath-kumar-reddy2103)
+🔗 LinkedIn: www.linkedin.com/in/haswanth-kondamadugula-417607188
 
-💻 GitHub: (https://github.com/BharathKumarReddy2103)
-
-📝 Medium Blog: (https://medium.com/@nbkumar2103)
+💻 GitHub: https://github.com/Haswanthkondamadugula
 
 ⭐ If you find my work helpful, please consider starring my repositories and following my profile and let's innovate together 🎯
 
 GitHub Stats
 
-Bharath's GitHub Stats Top Languages
+Haswanth's GitHub Stats Top Languages
